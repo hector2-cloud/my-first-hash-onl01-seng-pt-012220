@@ -1,5 +1,5 @@
-def your_hash
-  my_hash={"hector"=>"student"}
+def my_hash
+  your_hash={"hector"=>"student"}
   
 end
 
